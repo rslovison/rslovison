@@ -1,0 +1,71 @@
+/* Estilos gerais */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  
+  /* Estilos para o header */
+  header {
+    background-color: #333;
+    color: #fff;
+    padding: 1rem;
+  }
+  
+  nav ul {
+    list-style: none;
+    padding: 0;
+    display: flex;
+  }
+  
+  nav li {
+    margin-right: 1rem;
+  }
+  
+  nav a {
+    text-decoration: none;
+    color: #fff;
+  }
+  
+  /* Estilos específicos para seções */
+  section {
+    padding: 2rem;
+  }
+  
+  /* Estilos para o formulário de contato */
+  form label,
+  form input,
+  form button {
+    display: block;
+    margin-bottom: 1rem;
+    width: 100%;
+    border-radius: 4px;
+  }
+  
+  /* Estilos para o formulário de contato */
+  form textarea {
+    padding: 0.5rem;
+    border: 1px solid#ccc;
+    border-radius: 4px;
+    resize: vertical;
+    min-height: 150px;
+    width: 100%;
+  }
+
+  form button {
+    background-color: #333;
+    color: #fff;
+    border: none;
+    padding: 0.5rem 1rem;
+    cursor: pointer;
+  }
+  
+  form button:hover {
+    background-color: #555;
+  }
+
+  /* Estilos para a lista da formação educacinal */
+ .estilo-formacao ul {
+    list-style-type: disc; 
+    margin-left: 20px;
+  }
