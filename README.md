@@ -1,5 +1,6 @@
 # Olá, eu sou o Raphael de Souza Lovison! 👋
 
+<img src="WhatsApp Image 2025-06-04 at 10.12.01.jpeg" alt="Avatar" width="150"/>
 
 ## 🏦 Sobre mim
 
